@@ -1,0 +1,1 @@
+pyinstaller -i favicon.ico -F -n "_NFO_" --add-data="favicon.ico;img" main.py
